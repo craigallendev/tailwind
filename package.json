@@ -1,0 +1,22 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  "dev": "npx tailwindcss -i ./src/input.css -o ./dist/style.css --watch"},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craigallendev/tailwind.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/craigallendev/tailwind/issues"
+  },
+  "homepage": "https://github.com/craigallendev/tailwind#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.6"
+  }
+}
